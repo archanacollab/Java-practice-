@@ -1,4 +1,4 @@
-# Java Practice – Interview Preparation
+# Java Practice
 
 Welcome to my Java Practice Repository! 👩‍💻  
 This repo is a collection of Java programs, problem-solving exercises, and core concept implementations that I’ve worked on while preparing for technical interviews and improving my Java fundamentals.
